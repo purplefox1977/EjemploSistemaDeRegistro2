@@ -18,10 +18,24 @@ Finalmente, cambiamos la rama principal de master a main con git branch M main y
   <li>GitHub es como el servidor en la nube donde guardas tu álbum de fotos.</li>
  <li>Git push es como subir las fotos de tu álbum al servidor en la nube.</li>
 </ol>
-
-
-
-
+<h1>Resumen</h1>
+<ol type="I">
+    <li>Primero, vimos cómo configurar Git con git config global user.name y git config global user.email para registrar nuestro nombre y correo electrónico. </li>
+    <li>También aprendimos a usar git config list para ver nuestras configuraciones.</li>
+    <li>Luego, exploramos cómo crear un repositorio con git clone o git init.</li>
+    <li>Para verificar el estado de nuestro proyecto, usamos git status</li>
+    <li>También aprendimos a usar git log para ver el historial de commits</li>
+    <li>Git diff para ver los cambios en los archivos.</li>
+    <li>Git branch para ver las ramas de nuestro proyecto.</li>
+    <li>Para agregar archivos al repositorio, usamos git add .</li>
+    <li>Para agregar todos los archivos o git add <nombre del archivo> para agregar un archivo específico..</li>
+    <li>Para mover los archivos al área de staging y enviarlos a GitHub, usamos git commit m "mensaje>"git commit es como una foto del estado actual de nuestro proyecto y nos permite crear un historial de cambios..</li> 
+    <li>Finalmente, aprendimos a enviar nuestros cambios a GitHub con git push</li>
+    <li>Actualizar nuestro repositorio local con git pull.</li>
+    <li>También exploramos cómo crear nuevas ramas con git checkout b <nombre de la rama>.</li>
+    <li>Mezclar ramas con git merge.</li>
+    <li>cambiar de rama con git switch y volver a un estado anterior con git restore source hash></li>
+</ol>
 
 
 
